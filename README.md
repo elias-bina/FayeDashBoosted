@@ -27,7 +27,9 @@ This file contains a lot of cool options to tweak your dash, don't hesitate to l
 
 ## Building at home
 
-Well I didn't test in another PC so I can't really be sure that it will work on your machine , I'll update it when I have the motivation (or if someone wants it, neverhelios on discord)
+At first, you need to copy `Directory.Build.props.example` to `Directory.Build.props` and set `GamePath` to your base folder.
+
+Well I didn't test in another PC so I can't really be sure that it will work on your machine , Tell me if if works with this (neverhelios on discord)
 
 
 # Things to add:
